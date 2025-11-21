@@ -1,0 +1,32 @@
+# -- 主選單 --
+
+[[main]]
+  name = "文章列表"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "標籤"
+  pageRef = "tags"
+  weight = 11
+
+[[main]]
+  name = "分類"
+  pageRef = "categories"
+  weight = 20
+
+
+# 若要子選單：
+# [[main]]
+  # name = "系列文章"
+  # parent = "其他內容"
+  # pageRef = "series"
+  # weight = 31
+
+# -- 頁腳選單 --
+# 頁腳選單顯示於頁尾、版權宣告之前。配置方式與主選單相同。
+
+# [[footer]]
+#   name = "標籤"
+#   pageRef = "tags"
+#   weight = 10

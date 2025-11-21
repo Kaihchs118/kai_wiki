@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comtents on Kai Wiki</title>
+    <link>http://localhost:1313/comtent/</link>
+    <description>Recent content in Comtents on Kai Wiki</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Sep 2025 08:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/comtent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HELLO 歡迎來到KAI WIKI</title>
+      <link>http://localhost:1313/comtent/posts/demo/</link>
+      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/comtent/posts/demo/</guid>
+      <description>&lt;h1 id=&#34;hello-歡迎來到kai-wiki&#34;&gt;HELLO 歡迎來到KAI WIKI&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

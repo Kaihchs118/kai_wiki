@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videoes on KAI WIKI</title>
+    <link>http://localhost:1313/kai_wiki/video/</link>
+    <description>Recent content in Videoes on KAI WIKI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
+    <webMaster>kai10050621@gmail.com (KAI)</webMaster>
+    <copyright>© 2025 KAI</copyright>
+    <lastBuildDate>Wed, 19 Nov 2025 15:23:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>誰是為為</title>
+      <link>http://localhost:1313/kai_wiki/video/cubase/</link>
+      <pubDate>Wed, 19 Nov 2025 15:23:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/video/cubase/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
