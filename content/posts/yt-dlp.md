@@ -2,12 +2,13 @@
 title: "抓片神器＋轉檔全能：yt-dlp 與 FFmpeg 終極應用！"
 date: 2025-09-09T19:00:00+08:00
 draft: false
-tags: ["yt-dlp", "ffmpeg", "影音工具", "自由軟體", "教學", "Python"]
-categories: ["工具筆記"]
+tags: ["yt-dlp", "ffmpeg", "自由軟體",]
+categories: ["軟體/筆記"]
 cover:
   image: "https://thf.bing.com/th/id/OIP.5FR4S5tojUE6z_fbTu9cWQHaE8?w=220&h=180&c=7&r=0&o=7&cb=thfc1&dpr=2&pid=1.7&rm=3"
-  alt: "yt-dlp 和 FFmpeg 的標誌"
 ---
+  
+  相信我這種東西很少在Youtube 上看到！
 
 在日常工作中，不論是尋找影片素材、下載線上課程，或是處理音樂檔案，我們常常會遇到網頁下載器畫質受限、廣告繁多，或根本不支援某些網站的窘境。
 
@@ -89,7 +90,7 @@ cover:
 macOS 使用者最方便的選擇是 [Homebrew](https://brew.sh/)。
 
 1.  開啟**終端機 (Terminal)**。
-2.  透過 Homebrew 安裝：
+2.  透過 Homebrew 安裝 (先去官網上安裝 HomeBrew)：
     ```bash
     brew install yt-dlp ffmpeg
     ```

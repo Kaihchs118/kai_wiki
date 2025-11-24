@@ -1,6 +1,6 @@
 # -- Theme Options --
 
-colorScheme = "monokai"
+colorScheme = "noir"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
@@ -66,7 +66,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = false
+  showEdit = true
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -77,7 +77,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # ⭐ 移除衝突的第二個 TOC（原本的 false 會覆蓋）
   # showTableOfContents = false   ← 已移除
 
-  showTaxonomies = false
+  showTaxonomies = true
   showCategoryOnly = false
   showAuthorsBadges = false
   showWordCount = false

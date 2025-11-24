@@ -2,16 +2,14 @@
 title: "iPhone 17 系列評測：升級亮點、價格與選購攻略 🚀"
 date: 2025-09-18T15:15:00+08:00
 draft: false
-tags: ["iPhone 17", "iPhone 17 Air", "iPhone 17 Pro", "iPhone 17 Pro Max", "Apple", "手機", "科技"]
-categories: ["科技", "產品評測"]
+tags: ["Apple", "手機", "科技"]
+categories: ["Apple" , "科技" ]
 description: "解析 iPhone 17 系列：超薄 Air、強大 Pro Max，規格、價格與選購建議一篇搞定！📱"
 author: "Kai"
 comments: true
 cover:
     image: "https://www.apple.com/v/iphone-17-pro/b/images/overview/welcome/hero__bdntboqignj6_xlarge.jpg" 
 ---
-
-# iPhone 17 系列評測：升級亮點、價格與選購攻略 🚀
 
 Apple 在 2025 年 9 月 9 日的「Awe Dropping」發表會上，  
 揭曉 iPhone 17 系列，  

@@ -1,6 +1,11 @@
 # -- 主選單 --
 
 [[main]]
+  name = "近況"
+  pageRef = "/now.md"
+  weight = 9
+
+[[main]]
   name = "文章列表"
   pageRef = "posts"
   weight = 10
@@ -11,14 +16,16 @@
   weight = 11
 
 [[main]]
-  name = "關於我"
-  pageRef = "content/about.md"
-  weight = 30
-
-[[main]]
   name = "分類"
   pageRef = "categories"
   weight = 20
+
+[[main]]
+  name = "關於我"
+  pageRef = "/about.md"
+  weight = 30
+
+
 
 
 # 若要子選單：

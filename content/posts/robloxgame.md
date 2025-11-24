@@ -1,7 +1,9 @@
 ---
 title: "Roblox 遊戲推薦大全"
 date: 2025-09-11T18:00:00+08:00
-tags: ["roblox", "pvp", "跑酷", "角色扮演", "恐怖生存", "建築創意", "搞笑派對"]
+Layout : "default"
+tags: ["Roblox"]
+categories: ["Games/Roblox"]
 draft: false
 comments: true
 cover:
@@ -16,17 +18,17 @@ cover:
 ## 真的好！
 📌 **特色**：收錄 Roblox 中有感筆電真的喜歡的，還有魏巍評論 
 
-> [👉 此生必看]({{< relref "300robloxgames.md" >}})
+> [👉 此生必看]({{< relref "/posts/roblox/300robloxgames.md" >}})
 ---
 ### 2 經典必玩遊戲 先看這個！！！！！
 📌 **特色**：整理 Roblox 中歷久不衰、評價高的遊戲清單，每個遊戲都值得一玩。  
-[👉 點我查看]({{< relref "robloxobbyparty.md" >}})
+[👉 點我查看]({{< relref "/posts/roblox/robloxobbyparty.md" >}})
 
 ---
 
 ### 3 經典必玩遊戲 先看這個！！！！！
 📌 **特色**：整理 Roblox 中歷久不衰、評價高的遊戲清單，每個遊戲都值得一玩。  
-[👉 點我查看]({{< relref "roblox.md" >}})
+[👉 點我查看]({{< relref "/posts/roblox/roblox.md" >}})
 
 ---
 

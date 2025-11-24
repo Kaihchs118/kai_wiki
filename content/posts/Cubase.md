@@ -1,6 +1,7 @@
 ---
 Title : "誰是魏巍？"
-layout: "default"
+layout: "hero"
+draft: true
 date: 2025-11-19T15:23:00+08:00
 lastmod: 2025-11-20T22:23:00+08:00
 toc: true

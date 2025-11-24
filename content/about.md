@@ -2,13 +2,20 @@
 Title : "關於我"
 Layout : "default"
 date: 2025-11-20T15:23:00+08:00
-lastmod: 2025-11-21T07:23:00+08:00
 ---
-# 歡迎來到 KAI WIKI !
 
-# 超好玩的按鈕
-{{< button href="#button" target="/content/Video/Cubase.md" >}}
-Call to action {{< /button >}}
+歡迎來到 KAI STUDIO 🎉
+
+這個網站是我的個人創作與學習紀錄平台。  
+在這裡，你可以找到：
+
+    - 影片剪輯教學：分享我使用 DaVinci Resolve 的心得與技巧。  
+    - 軟體與科技筆記：一些我在學習軟體和科技小技巧的整理。  
+    - 創作與作品展示：我的小作品、音樂、實驗性創作。
+
+希望你能在這裡找到有趣的內容，也歡迎留言交流。
+網站持續更新中，記得回來看看最新的分享！
+
+- 有任何問題歡迎寄信到：```kai10050621@gmail.com```
 ---
-# 超好玩的Youtube 影片
-{{< youtubeLite id="SgXhGb-7QbU" Label="WEIWEI" >}}
+> 或者可以在下面的留言板輸入想要問的問題喔（**暫時不開放**）
