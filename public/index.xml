@@ -9,7 +9,17 @@
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Thu, 20 Nov 2025 15:23:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電腦新聞新鮮報 (2025年11月)</title>
+      <link>http://localhost:1313/kai_wiki/posts/11technews/</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/posts/11technews/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>關於我</title>
@@ -47,16 +57,6 @@
       <pubDate>Fri, 10 Oct 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
       <guid>http://localhost:1313/kai_wiki/posts/10technews/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/kai_wiki/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/resources/</guid>
       <description></description>
       
     </item>

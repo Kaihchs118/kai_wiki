@@ -3,7 +3,6 @@ Title : "關於我"
 Layout : "default"
 date: 2025-11-20T15:23:00+08:00
 lastmod: 2025-11-21T07:23:00+08:00
-toc: true
 ---
 # 歡迎來到 KAI WIKI !
 

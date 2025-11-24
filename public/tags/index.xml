@@ -9,14 +9,64 @@
     <managingEditor>kai10050621@gmail.com (KAI)</managingEditor>
     <webMaster>kai10050621@gmail.com (KAI)</webMaster>
     
-    <lastBuildDate>Mon, 29 Sep 2025 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Nov 2025 08:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/kai_wiki/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mac</title>
-      <link>http://localhost:1313/kai_wiki/tags/mac/</link>
-      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
+      <title>AI PC</title>
+      <link>http://localhost:1313/kai_wiki/tags/ai-pc/</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/tags/mac/</guid>
+      <guid>http://localhost:1313/kai_wiki/tags/ai-pc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Google Quick Share</title>
+      <link>http://localhost:1313/kai_wiki/tags/google-quick-share/</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/tags/google-quick-share/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>軟體趨勢</title>
+      <link>http://localhost:1313/kai_wiki/tags/%E8%BB%9F%E9%AB%94%E8%B6%A8%E5%8B%A2/</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/tags/%E8%BB%9F%E9%AB%94%E8%B6%A8%E5%8B%A2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>硬體新聞</title>
+      <link>http://localhost:1313/kai_wiki/tags/%E7%A1%AC%E9%AB%94%E6%96%B0%E8%81%9E/</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/tags/%E7%A1%AC%E9%AB%94%E6%96%B0%E8%81%9E/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>電腦新聞</title>
+      <link>http://localhost:1313/kai_wiki/tags/%E9%9B%BB%E8%85%A6%E6%96%B0%E8%81%9E/</link>
+      <pubDate>Mon, 24 Nov 2025 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/tags/%E9%9B%BB%E8%85%A6%E6%96%B0%E8%81%9E/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MacOS</title>
+      <link>http://localhost:1313/kai_wiki/tags/macos/</link>
+      <pubDate>Fri, 10 Oct 2025 08:00:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/tags/macos/</guid>
       <description></description>
       
     </item>
@@ -24,7 +74,7 @@
     <item>
       <title>Nintendo Switch 2</title>
       <link>http://localhost:1313/kai_wiki/tags/nintendo-switch-2/</link>
-      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
+      <pubDate>Fri, 10 Oct 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
       <guid>http://localhost:1313/kai_wiki/tags/nintendo-switch-2/</guid>
       <description></description>
@@ -34,29 +84,9 @@
     <item>
       <title>Windows</title>
       <link>http://localhost:1313/kai_wiki/tags/windows/</link>
-      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
+      <pubDate>Fri, 10 Oct 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
       <guid>http://localhost:1313/kai_wiki/tags/windows/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>硬體</title>
-      <link>http://localhost:1313/kai_wiki/tags/%E7%A1%AC%E9%AB%94/</link>
-      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
-      <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/tags/%E7%A1%AC%E9%AB%94/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>電腦新聞</title>
-      <link>http://localhost:1313/kai_wiki/tags/%E9%9B%BB%E8%85%A6%E6%96%B0%E8%81%9E/</link>
-      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
-      <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/tags/%E9%9B%BB%E8%85%A6%E6%96%B0%E8%81%9E/</guid>
       <description></description>
       
     </item>

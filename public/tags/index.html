@@ -557,6 +557,16 @@
 
 
 
+  <script>
+    (function () {
+      var $mainmenu = $(".main-menu");
+      var path = window.location.pathname;
+      $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+        $(e).children("p").addClass("active");
+      });
+    })();
+  </script>
+
 
     
     <div class="relative flex flex-col grow">
@@ -608,8 +618,42 @@
   <h2 class="flex items-center">
     <a
       class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
-      href="/kai_wiki/tags/mac/"
-      >Mac</a
+      href="/kai_wiki/tags/ai-pc/"
+      >AI PC</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        1
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/kai_wiki/tags/google-quick-share/"
+      >Google Quick Share</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        1
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/kai_wiki/tags/macos/"
+      >MacOS</a
     >
     
       <span class="px-2 text-base text-primary-500">&middot;</span>
@@ -659,8 +703,25 @@
   <h2 class="flex items-center">
     <a
       class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
-      href="/kai_wiki/tags/%E7%A1%AC%E9%AB%94/"
-      >硬體</a
+      href="/kai_wiki/tags/%E7%A1%AC%E9%AB%94%E6%96%B0%E8%81%9E/"
+      >硬體新聞</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        1
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/kai_wiki/tags/%E8%BB%9F%E9%AB%94%E8%B6%A8%E5%8B%A2/"
+      >軟體趨勢</a
     >
     
       <span class="px-2 text-base text-primary-500">&middot;</span>
@@ -682,7 +743,7 @@
     
       <span class="px-2 text-base text-primary-500">&middot;</span>
       <span class="text-base text-neutral-400">
-        1
+        2
       </span>
     
   </h2>
