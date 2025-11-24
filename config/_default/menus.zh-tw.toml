@@ -11,6 +11,11 @@
   weight = 11
 
 [[main]]
+  name = "關於我"
+  pageRef = "content/about.md"
+  weight = 30
+
+[[main]]
   name = "分類"
   pageRef = "categories"
   weight = 20

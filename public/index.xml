@@ -13,10 +13,10 @@
     
     <item>
       <title>關於我</title>
-      <link>http://localhost:1313/kai_wiki/posts/about/</link>
+      <link>http://localhost:1313/kai_wiki/about/</link>
       <pubDate>Thu, 20 Nov 2025 15:23:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
-      <guid>http://localhost:1313/kai_wiki/posts/about/</guid>
+      <guid>http://localhost:1313/kai_wiki/about/</guid>
       <description></description>
       
     </item>
@@ -44,7 +44,7 @@
     <item>
       <title>電腦新聞新鮮報 (2025年10月)</title>
       <link>http://localhost:1313/kai_wiki/posts/10technews/</link>
-      <pubDate>Mon, 29 Sep 2025 08:00:00 +0800</pubDate>
+      <pubDate>Fri, 10 Oct 2025 08:00:00 +0800</pubDate>
       <author>kai10050621@gmail.com (KAI)</author>
       <guid>http://localhost:1313/kai_wiki/posts/10technews/</guid>
       <description></description>
