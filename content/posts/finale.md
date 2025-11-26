@@ -1,9 +1,9 @@
 ---
 title: "一個時代的終結：為什麽 Finale 選擇了下台一鞠躬？"
 date: 2025-08-28T18:00:00+08:00
+Layout : "default"
 draft: false
 tags: ["Finale", "打譜軟體", "Dorico", "MuseScore", "科技音樂"]
-categories: ["軟體/音樂相關"]
 comments: true
 cover:
     image: "https://thf.bing.com/th/id/OIP.DGgujOomSM-5fREFNm2-_QHaF7?w=258&h=206&c=7&r=0&o=5&cb=thfc1&dpr=2&pid=1.7 "

@@ -3,8 +3,7 @@ title: "電腦新聞新鮮報 (2025年11月)"
 date: 2025-11-24T08:00:00+08:00
 draft: false
 layout: "default"
-tags: ["電腦新聞", "AI PC", "Google Quick Share", "硬體新聞", "軟體趨勢"]
-categories: ["NEWS/2025"]
+tags: ["電腦新聞", "AI PC", "Google Quick Share", "硬體新聞"]
 ---
 
 

@@ -4,7 +4,6 @@ date: 2025-10-10T08:00:00+08:00
 draft: false  
 layout: "default"
 tags: ["電腦新聞", "MacOS", "Windows", "Nintendo Switch 2"]  
-categories: ["NEWS/2025"]  
 --- 
 
 # 🖥️ 電腦新聞新鮮報 — 2025年10月（硬體 / Mac / Windows 專題）

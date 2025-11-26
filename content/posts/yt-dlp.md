@@ -1,9 +1,9 @@
 ---
 title: "抓片神器＋轉檔全能：yt-dlp 與 FFmpeg 終極應用！"
 date: 2025-09-09T19:00:00+08:00
+Layout : "default"
 draft: false
 tags: ["yt-dlp", "ffmpeg", "自由軟體",]
-categories: ["軟體/筆記"]
 cover:
   image: "https://thf.bing.com/th/id/OIP.5FR4S5tojUE6z_fbTu9cWQHaE8?w=220&h=180&c=7&r=0&o=7&cb=thfc1&dpr=2&pid=1.7&rm=3"
 ---
