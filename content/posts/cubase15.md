@@ -7,136 +7,113 @@ tags: ["Cubase", "音樂製作", "DAW"]
 
 # Cubase 15：真正的全面升級，感覺就是更順、更快、更會寫音樂
 
-Cubase 15 這次更新不像只補功能的小修小補，而是真正能感受到「哇，使用起來變好順」的那種版本。不只音色工具更多，AI 功能也跳了一階，操作起來一整個比以前更貼近創作者習慣。
+Cubase 15 這次更新不像只補功能的小修小補，而是真正能感受到「哇，使用起來變好順」的那種版本。不只音色工具更多，AI 功能也跳了一階，操作起來一整個比以前更貼近創作者習慣。2
 
 ---
 
-## 🎹 **重新打造的 Expression Maps（表現力提升超明顯）**
+## 🎬 官方功能總覽
+
+「What Is New in Cubase 15」為官方釋出的功能介紹影片，有最完整的新功能一覽，非常適合想第一時間了解的人。
+
+{{< youtube "77zQzd7XsdI" >}}
+
+---
+
+## 🎹 重新打造的 Expression Maps（表現力提升超明顯）
 
 新版 Expression Maps 不只是 UI 更新，而是整個整合方式都變聰明了。  
-不管是弦樂、管樂，還是 Kontakt 系列的複雜樂器，切換 articulations 變得自然到不太需要停下來調。
+不管是弦樂、管樂，還是像 Kontakt 那種複雜樂器，切換 articulations 變得自然到不太需要停下來手動調整。使用感受就是：「以前你得告訴它怎麼演，現在它自己懂。」3
 
-以前你得「教它怎麼演」，現在它自己就懂。
-
-### ▶ 推薦影片：快速看看 Expression Maps 新功能
-{{< youtube "6qG3a_1-0l8" >}}
+{{< youtube "Bpc9noGs3qI" >}}
 
 ---
 
-## 🎼 **全新的 Pattern Editor（旋律、Bass、和弦都超好生）**
+## 🎼 全新的 Pattern Editor（旋律、Bass、和弦都超好生）
 
-新版 Pattern Sequencer 可以直接做：
+這次加入的 Melodic Pattern Sequencer，可以讓你快速生成：
 
-- 自動 Hook
-- 節奏切分
-- Scale-aware 自動跟音階
-- 隨機器做更自然的旋律
-- 用形狀做滑音、律動
+- 和弦進行、bassline、旋律  
+- 自訂音階與 Scale  
+- 隨機化音符（Randomizer）  
+- Shape‑based 特效／律動  
+- Hook／動機草稿超快速出來  
 
-以前要靠第三方插件的，現在 Cubase 內建做到而且更聰明。
+對於想快速抓靈感、做草稿、或實驗旋律的人來說，是非常強的武器。4
 
-### ▶ Pattern Editor 實際示範影片
-{{< youtube "kK5CmUfKVn4" >}}
-
----
-
-## 🔄 **Modulators 再升級（六種新調變器）**
-
-新 modulators 讓音色能更動態，例如：
-
-- pumping 效果
-- morph 變形合成
-- 節奏型 modulation
-- ambient 類型的持續空間感
-
-放在 pads、leads、drums 上的差異都非常明顯。
-
-### ▶ Modulators 新功能展示
-{{< youtube "xNVgN3N1rEg" >}}
+{{< youtube "VP2bh8CGR0c" >}}
 
 ---
 
-## 🥁 **Groove Agent SE 6：鼓組更強、介面更舒服**
+## 🔄 Modulators 再升級（六種新調變器）
 
-這次 Groove Agent 新增 40 組高品質的鼓組，涵蓋 Trap、EDM、Pop。  
-Mixer、Pad 介面變更直覺，做 Demo 超快，成品感也很高。
+Cubase 15 為已有的 Modulator 系統新增六種模組 — 讓你可以做：
 
-### ▶ 官方 Groove Agent SE 6 介紹影片
-{{< youtube "YNYJXkv8Yb8" >}}
+- LFO、Envelope‑driven modulation  
+- 隨機化／跳躍 modulation  
+- 音色 morphing / dynamic effects  
+- 節奏 sync modulation、節奏變化  
 
----
+對於喜歡做合成、sound‑design、電子音樂的人特別有用。5
 
-## 🔊 **Writing Room Synths（專為編曲創作者打造）**
-
-Writing Room Synths 很明顯不是亂塞的合成器，而是特別為「編曲」設計。  
-音色乾淨、不會太浮誇，很適合快速寫：
-
-- 主旋律
-- Pads
-- Bass
-- 和聲氛圍
-
-### ▶ Writing Room Synths 影片
-{{< youtube "YrZ55TduCkI" >}}
+{{< youtube "p-8Y1thXcUo" >}}
 
 ---
 
-## 🗣 **Yamaha Omnivocal（Beta）— 真的能「唱」**
+## 🥁 Groove Agent SE 6：鼓組更強、介面更舒服
 
-只要給它 MIDI，它就能唱旋律。  
-雖然是 Beta，但人聲染色能力很高：
+新版內建鼓機 Groove Agent SE 6，加入 40 組高品質鼓組（Trap / EDM / Pop / Hip‑Hop 等），介面更直覺、Mixer 更好用、音色也更實用。對做 beat、節奏為主的作品來說，幫助很大。6
 
-- 男聲、女聲
-- 電子、人聲機械感
-- vocoder 風格
-
-都能輕鬆做出來。
-
-### ▶ Omnivocal 實際效果
-{{< youtube "8JDdYyqS-g8" >}}
+{{< youtube "JvF2godMaNQ" >}}
 
 ---
 
-## 🆕 **效果器 UI 全升級（好看、好調、更順眼）**
+## 🔊 Writing Room Synths（專為編曲創作者打造）
 
-Cubase 15 的所有內建效果器都能自由縮放，不會再因為 UI 太小而調得痛苦。  
-UltraShaper 超好用，Transient + Clipper + EQ 三合一非常實用。
+這次 Cubase 15 附帶一組全新的 Synth 套件 — Writing Room Synths。它不像那種包一打大量預設然後用不到的合成器，而是設計得很乾淨、實用，適合寫主旋律、Pads、Bass、背景氛圍音樂。
 
-PitchShifter 的自然度也比以前高很多。
+對於需要快速出 Demo、概念曲或背景音的人，很好派上用場。7
 
-### ▶ 效果器總覽影片
-{{< youtube "glqr_XvsGyw" >}}
-
----
-
-## ⚙️ **更快的工作流程：AI 分軌、跨版本、快匯出**
-
-這次很多小細節都能明顯提升製作流程：
-
-- Hub 更乾淨  
-- 內建 Stem 分軌  
-- Cubase 12～15 專案互通  
-- 匯出速度更快  
-
-實測的感受就是：「不會卡創作節奏」。
-
-### ▶ Workflow 改善影片
 {{< youtube "0vBWYH8O0xE" >}}
 
 ---
 
-# 🎧 **結語：Cubase 15 是真正能「提高完成度」的版本**
+## 🗣 Omnivocal（Beta）— 真的能「唱」
 
-用過就會發現，它不是官網說的那些更新而已，而是你在創作中會一直感受到：
+Cubase 15 這次加入來自 Yamaha 技術的人聲合成引擎 Omnivocal。給它 MIDI Melody，它就能幫你「唱」出來，支援不同風格的聲線／音色，對於做 demo、草稿人聲，或試試合成主唱的人來說，是個相當有趣也實用的功能。8
 
-- 卡點變少了  
-- 操作更順  
-- 工具上手更快  
-- 想寫什麼就更容易做出來  
+{{< youtube "8JDdYyqS-g8" >}}
 
-簡單說就是——  
-**Cubase 15 是你越用越覺得貼心、越覺得它懂你的版本。**
+---
 
-至於有人說這比較像「14.5」？  
-嗯……用起來根本不像啦哈哈哈 🤣🤣🤣  
-有些更新真的很細，但會讓你每天都感受到差別。
+## 🆕 效果器 + UI 全面升級（更舒適、更實用）
+
+這次所有內建效果器都支援可縮放 UI，不再因為螢幕尺寸、解析度、插件視窗大小而卡視覺。  
+特別是新的 UltraShaper（包含 Transient Shaping + Clipper + EQ）非常實用；再加上更新過的 PitchShifter，使得混音／製作流程更現代，也更方便。9
+
+{{< youtube "F0K2oMa06rw" >}}
+
+---
+
+## ⚙️ 工作流程大幅優化：AI Stem 分軌、跨版本、快速匯出
+
+Cubase 15 不只是「加新玩具」，也把常用功能／流程調整得更順暢：
+
+- 全新 Hub／專案啟動介面  
+- 內建 AI Stem 分軌（直接分 vocals / drums / bass / other）  
+- 專案可跨版本互用（從較舊版本升級、互轉）  
+- 更快速的 Export 流程與格式選項  
+
+對於日常創作／混音／編曲的人來說，省下很多時間，讓 workflow 更順。10
+
+{{< youtube "B73lpWy0lfE" >}}
+
+---
+
+# 🎧 結語：Cubase 15 是真正能「提高完成度」的版本
+
+用過你就會發現，它不只是把功能 list 拉長，而是細節、手感、流程、邏輯 —— 全面對得起「下一代 DAW」的名號。  
+不管你是做 beat／電子、寫歌、配樂、混音，或只是想找個好用又穩定的 DAW，Cubase 15 都值得你好好試一次。
+
+倒是那種說「這根本是 14.5」的評價，我只能說——操作起來、用起來的感覺，真的差很多 😎  
+
+如果你之後想加封面圖、TOC／目錄、SEO metadata、社群分享卡片…只要說，我立刻幫你補上。
