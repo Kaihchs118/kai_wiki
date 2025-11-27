@@ -9,8 +9,6 @@ tags: ["Cubase", "音樂製作", "DAW"]
 
 Steinberg 無預警發布了 **Cubase 15**，帶來更強大的音色塑形功能、AI 技術、介面大更新、跨版本專案支援、還有全新的 Pattern Sequencer、Beta Omnivocal 語音引擎等多項強化功能。
 
-以下就是本次版本最完整的整理，圖片我都幫你放好了，直接顯示沒問題！
-
 ![Cubase 15 UI 主畫面](https://europe1.discourse-cdn.com/steinberg/original/4X/4/6/f/46ffe202a67ec5f8dd032c117a271748f41b924b.png)
 
 ---
