@@ -3,21 +3,12 @@ title: "macOS 26.2 Tahoe 正式版：功能總覽與你該注意的重點"
 draft: false
 tags: ["macOS","Apple","系統更新"] 
 layout: "hero"
-date: 2025-11-19T15:23:00+08:00
+date: 2025-12-08T09:30:00+08:00
 ---
 
 # macOS 26.2 Tahoe：這次更新到底更新了什麼？
 
-Apple 最近釋出 macOS 26.2（Tahoe）版本，雖然不像大版本那樣全面翻修，但有幾項對日常使用、創作或通話很實用的更新 — 我幫你整理成這篇懶人包。如果你有 Mac，不妨看看這次值不值得升級。  
-
----
-
-## 🖼 新版介面與設計語言延續：Liquid Glass  
-
-{{< figure src="https://www.apple.com/v/macos/tahoe/i/images/overview/hero_endframe__ayd6e6xgfquy_large.jpg" alt="macOS Tahoe Liquid Glass 介面" >}}
-
-macOS Tahoe 自 26.0 開始就採用了 Liquid Glass 設計語言 — 視窗、工具列、通知面板都帶著半透明玻璃感。:contentReference[oaicite:3]{index=3}  
-在 26.1 / 26.2 中，這個設計語言持續保留並稍作優化，對於喜歡乾淨、現代 UI 的人來說，使用體驗很舒服。:contentReference[oaicite:4]{index=4}
+Apple 最近釋出 macOS 26.2（Tahoe）版本，雖然不像大版本那樣全面翻修，但有幾項對日常使用、創作或通話很實用的更新 !
 
 ---
 
@@ -25,18 +16,16 @@ macOS Tahoe 自 26.0 開始就採用了 Liquid Glass 設計語言 — 視窗、�
 
 {{< figure src="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/image.png" alt="macOS Tahoe Edge Light 功能示意" >}}
 
-macOS 26.2 引入了 Edge Light 功能 — 當你使用 Mac 進行視訊通話（例如 FaceTime、Zoom、Teams 等）時，如果環境光線不足，Mac 螢幕邊緣會亮起一圈光帶，模擬像「環形燈 (ring light)」的補光效果，讓你的臉在鏡頭前看起來更清晰、不會太暗。:contentReference[oaicite:6]{index=6}  
-這對於常開視訊會議、直播、線上上課、影片拍攝的人來說，是很實用的一項更新。:contentReference[oaicite:7]{index=7}
-
+macOS 26.2 引入了 Edge Light 功能 — 當你使用 Mac 進行視訊通話（例如 FaceTime、Zoom、Teams 等）時，如果環境光線不足，Mac 螢幕邊緣會亮起一圈光帶，模擬像「環形燈 (ring light)」的補光效果，讓你的臉在鏡頭前看起來更清晰、不會太暗。
+這對於常開視訊會議、直播、線上上課、影片拍攝的人來說，是很實用的一項更新。
 ---
 
 ## 🔧 新增選項：Liquid Glass 可切換透明／半透樣式  
 
-{{< figure src="https://www.macrumors.com/wp-content/uploads/2025/10/macos-26-tahoe-liquid-glass-tinted-mode.jpg" alt="macOS Tahoe Liquid Glass Tinted 模式" >}}
 
-如果你覺得透明玻璃風格太「花」、閱讀或辨識不舒服，26.1 起系統加入選項，允許使用者把 Liquid Glass 切換成「Tinted / 半透明」風格 — 背景會變得不那麼透明，讓介面更穩定也更容易閱讀。:contentReference[oaicite:8]{index=8}
+如果你覺得透明玻璃風格太「花」、閱讀或辨識不舒服，26.1 起系統加入選項，允許使用者把 Liquid Glass 切換成「Tinted / 半透明」風格 — 背景會變得不那麼透明，讓介面更穩定也更容易閱讀。
 
-對於喜歡簡潔、清晰、或需要專注工作的使用者（像是寫作、剪輯、程式編輯…）來說，這是很貼心的調整。  
+> 對於喜歡簡潔、清晰、或需要專注工作的使用者（像是寫作、剪輯、程式編輯…）來說，這是很貼心的調整。  
 
 ---
 
@@ -53,7 +42,7 @@ macOS 26.2 引入了 Edge Light 功能 — 當你使用 Mac 進行視訊通話
 
 ## 📝 注意事項／可能還沒被確認的地方  
 
-- Edge Light 功能目前在 26.2 Beta（或 RC）中被公開 — 若你希望穩定上手，建議確認更新後是否顯示在你的「系統設定 > 顯示／視訊通話選項」中。:contentReference[oaicite:9]{index=9}  
+- Edge Light 功能目前在 26.2 Beta（或 RC）中被公開 — 若你希望穩定上手，建議確認更新後是否顯示在你的「系統設定 > 顯示／視訊通話選項」中。
 - 有些使用者曾回報在全螢幕模式或特定情況下，顯示效果可能與預期不同 — 如果你做創作或影片剪輯，更新前最好先備份。  
 
 ---
