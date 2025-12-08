@@ -14,7 +14,7 @@ Apple 最近釋出 macOS 26.2（Tahoe）版本，雖然不像大版本那樣全�
 
 ## 🖼 新版介面與設計語言延續：Liquid Glass  
 
-{{< img src="https://www.apple.com/v/macos/tahoe/i/images/overview/hero_endframe__ayd6e6xgfquy_large.jpg" alt="macOS Tahoe Liquid Glass 介面" >}}
+{{< figure src="https://www.apple.com/v/macos/tahoe/i/images/overview/hero_endframe__ayd6e6xgfquy_large.jpg" alt="macOS Tahoe Liquid Glass 介面" >}}
 
 macOS Tahoe 自 26.0 開始就採用了 Liquid Glass 設計語言 — 視窗、工具列、通知面板都帶著半透明玻璃感。:contentReference[oaicite:3]{index=3}  
 在 26.1 / 26.2 中，這個設計語言持續保留並稍作優化，對於喜歡乾淨、現代 UI 的人來說，使用體驗很舒服。:contentReference[oaicite:4]{index=4}
@@ -23,7 +23,7 @@ macOS Tahoe 自 26.0 開始就採用了 Liquid Glass 設計語言 — 視窗、�
 
 ## 💡 新功能：Edge Light — 螢幕邊緣補光，視訊更自然  
 
-{{< img src="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/image.png" alt="macOS Tahoe Edge Light 功能示意" >}}
+{{< figure src="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/image.png" alt="macOS Tahoe Edge Light 功能示意" >}}
 
 macOS 26.2 引入了 Edge Light 功能 — 當你使用 Mac 進行視訊通話（例如 FaceTime、Zoom、Teams 等）時，如果環境光線不足，Mac 螢幕邊緣會亮起一圈光帶，模擬像「環形燈 (ring light)」的補光效果，讓你的臉在鏡頭前看起來更清晰、不會太暗。:contentReference[oaicite:6]{index=6}  
 這對於常開視訊會議、直播、線上上課、影片拍攝的人來說，是很實用的一項更新。:contentReference[oaicite:7]{index=7}
@@ -32,7 +32,7 @@ macOS 26.2 引入了 Edge Light 功能 — 當你使用 Mac 進行視訊通話
 
 ## 🔧 新增選項：Liquid Glass 可切換透明／半透樣式  
 
-{{< img src="https://www.macrumors.com/wp-content/uploads/2025/10/macos-26-tahoe-liquid-glass-tinted-mode.jpg" alt="macOS Tahoe Liquid Glass Tinted 模式" >}}
+{{< figure src="https://www.macrumors.com/wp-content/uploads/2025/10/macos-26-tahoe-liquid-glass-tinted-mode.jpg" alt="macOS Tahoe Liquid Glass Tinted 模式" >}}
 
 如果你覺得透明玻璃風格太「花」、閱讀或辨識不舒服，26.1 起系統加入選項，允許使用者把 Liquid Glass 切換成「Tinted / 半透明」風格 — 背景會變得不那麼透明，讓介面更穩定也更容易閱讀。:contentReference[oaicite:8]{index=8}
 
