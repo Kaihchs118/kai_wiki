@@ -15,6 +15,5 @@ id : "listpdf"
 ### 聽完大師表演講座後，真的讓我覺得這是最好的講座！
 ---
 # 下載大師版鋼琴譜
-<a href="https://drive.google.com/file/d/1OG9I36UN8wwpyRExEo7EowANOf3c0LRA/view?usp=sharing" target="_blank" class="btn btn-primary">
-  開啟 PDF
-</a>
+
+{{< button href="https://drive.google.com/file/d/1OG9I36UN8wwpyRExEo7EowANOf3c0LRA/view?usp=sharing" target="_blank" >}} 下載鋼琴譜 {{< /button >}}
