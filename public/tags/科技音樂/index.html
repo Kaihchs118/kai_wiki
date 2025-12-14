@@ -116,8 +116,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/kai_wiki/css/main.bundle.min.3456e5d24c1f125d32b00f80ec7a541716dc13103487ed0613c98da192a27f8a9ad5dc469a913f5fc1b48aca4e9c8ef6c6716f95bd3b78c93918a7dc584c51c7.css"
-    integrity="sha512-NFbl0kwfEl0ysA&#43;A7HpUFxbcExA0h&#43;0GE8mNoZKif4qa1dxGmpE/X8G0ispOnI72xnFvlb07eMk5GKfcWExRxw==">
+    href="/kai_wiki/css/main.bundle.min.f3f872a2564d7bb8d90c28c665fd4361551cb1e93953891b52a63fa5956d48276a24049dd06beb18d2ab00e2b45b295b1a78b666c2c3384d48fedc4fec922159.css"
+    integrity="sha512-8/hyolZNe7jZDCjGZf1DYVUcsek5U4kbUqY/pZVtSCdqJASd0GvrGNKrAOK0WylbGni2ZsLDOE1I/txP7JIhWQ==">
 
   
   
@@ -228,6 +228,29 @@
   
 
   
+  
+    
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+      <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyB3yMx0BCbL94QBHyZIznwNyVEjav1wdVo",
+      authDomain: "hugo-kaiwiki2.firebaseapp.com",
+      projectId: "hugo-kaiwiki2",
+      storageBucket: "hugo-kaiwiki2.firebasestorage.app",
+      messagingSenderId: "291284400474",
+      appId: "1:291284400474:web:441cd888267e3ece481b63",
+      measurementId: "G-CR6Y1V6GDY"
+    };
+
+        var app = firebase.initializeApp(firebaseConfig);
+        var db = firebase.firestore();
+        var auth = firebase.auth();
+
+      </script>
+    
   
 
   
@@ -351,24 +374,6 @@
       
         
   <a
-  href="/kai_wiki/categories/"
-  
-  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-  aria-label="分類"
-  title="Categories">
-  
-  
-    <p class="text-base font-medium">
-      分類
-    </p>
-  
-</a>
-
-
-
-      
-        
-  <a
   href="/kai_wiki/about/"
   
   class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
@@ -379,6 +384,20 @@
     <p class="text-base font-medium">
       關於我
     </p>
+  
+</a>
+
+
+
+      
+        
+  <a
+  href=""
+  
+  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+  
+  title="">
+  
   
 </a>
 
@@ -545,15 +564,15 @@
               
   <li class="mt-1">
   <a
-    href="/kai_wiki/categories/"
+    href="/kai_wiki/about/"
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-    aria-label="分類"
-    title="Categories">
+    aria-label="關於我"
+    title="關於我">
     
     
       <p class="text-bg font-bg">
-        分類
+        關於我
       </p>
     
   </a>
@@ -565,16 +584,12 @@
               
   <li class="mt-1">
   <a
-    href="/kai_wiki/about/"
+    href=""
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-    aria-label="關於我"
-    title="關於我">
     
+    title="">
     
-      <p class="text-bg font-bg">
-        關於我
-      </p>
     
   </a>
 </li>
@@ -718,6 +733,190 @@
     <header class="items-center text-start text-xl font-semibold">
       <a
         
+          href="/kai_wiki/posts/musescorelayout/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          MuseScore 超簡單排版教學
+          
+        </h2>
+      </a>
+      
+      
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2025-09-07T12:33:04&#43;08:00">發布日期 : 2025/09/07</time><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">1 分鐘</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+    <div class="flex flex-row flex-wrap items-center">
+      
+        
+      
+        
+          
+        
+      
+        
+      
+        
+          
+            
+              <a class="relative mt-[0.5rem] me-2" href="/kai_wiki/tags/%E6%89%93%E8%AD%9C%E8%BB%9F%E9%AB%94/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    打譜軟體
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/kai_wiki/tags/musescore/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    MuseScore
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/kai_wiki/tags/%E7%A7%91%E6%8A%80%E9%9F%B3%E6%A8%82/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    科技音樂
+  </span>
+</span>
+
+              </a>
+            
+          
+        
+      
+    </div>
+  
+
+  
+  
+
+
+
+    </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
+
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+      
+      
+    
+
+    
+    
+      
+    
+  
+
+
+
+<article class="flex flex-col md:flex-row relative">
+  
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
+      <a
+        
           href="/kai_wiki/posts/finale/"
         
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
@@ -790,18 +989,6 @@
         
       
         
-          
-            
-              <a class="relative mt-[0.5rem] me-2" href="/kai_wiki/categories/%E8%BB%9F%E9%AB%94/%E9%9F%B3%E6%A8%82%E7%9B%B8%E9%97%9C/">
-                <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    軟體/音樂相關
-  </span>
-</span>
-
-              </a>
-            
           
         
       

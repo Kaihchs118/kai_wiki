@@ -21,5 +21,15 @@
       
     </item>
     
+    <item>
+      <title>電腦新聞新鮮報 (2025年9月)</title>
+      <link>http://localhost:1313/kai_wiki/posts/news/9technews/</link>
+      <pubDate>Mon, 08 Sep 2025 15:30:00 +0800</pubDate>
+      <author>kai10050621@gmail.com (KAI)</author>
+      <guid>http://localhost:1313/kai_wiki/posts/news/9technews/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -123,8 +123,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/kai_wiki/css/main.bundle.min.3456e5d24c1f125d32b00f80ec7a541716dc13103487ed0613c98da192a27f8a9ad5dc469a913f5fc1b48aca4e9c8ef6c6716f95bd3b78c93918a7dc584c51c7.css"
-    integrity="sha512-NFbl0kwfEl0ysA&#43;A7HpUFxbcExA0h&#43;0GE8mNoZKif4qa1dxGmpE/X8G0ispOnI72xnFvlb07eMk5GKfcWExRxw==">
+    href="/kai_wiki/css/main.bundle.min.f3f872a2564d7bb8d90c28c665fd4361551cb1e93953891b52a63fa5956d48276a24049dd06beb18d2ab00e2b45b295b1a78b666c2c3384d48fedc4fec922159.css"
+    integrity="sha512-8/hyolZNe7jZDCjGZf1DYVUcsek5U4kbUqY/pZVtSCdqJASd0GvrGNKrAOK0WylbGni2ZsLDOE1I/txP7JIhWQ==">
 
   
   
@@ -269,6 +269,29 @@
 
   
   
+    
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+      <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+      <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyB3yMx0BCbL94QBHyZIznwNyVEjav1wdVo",
+      authDomain: "hugo-kaiwiki2.firebaseapp.com",
+      projectId: "hugo-kaiwiki2",
+      storageBucket: "hugo-kaiwiki2.firebasestorage.app",
+      messagingSenderId: "291284400474",
+      appId: "1:291284400474:web:441cd888267e3ece481b63",
+      measurementId: "G-CR6Y1V6GDY"
+    };
+
+        var app = firebase.initializeApp(firebaseConfig);
+        var db = firebase.firestore();
+        var auth = firebase.auth();
+
+      </script>
+    
+  
 
   
   
@@ -391,24 +414,6 @@
       
         
   <a
-  href="/kai_wiki/categories/"
-  
-  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-  aria-label="分類"
-  title="Categories">
-  
-  
-    <p class="text-base font-medium">
-      分類
-    </p>
-  
-</a>
-
-
-
-      
-        
-  <a
   href="/kai_wiki/about/"
   
   class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
@@ -419,6 +424,20 @@
     <p class="text-base font-medium">
       關於我
     </p>
+  
+</a>
+
+
+
+      
+        
+  <a
+  href=""
+  
+  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
+  
+  title="">
+  
   
 </a>
 
@@ -585,15 +604,15 @@
               
   <li class="mt-1">
   <a
-    href="/kai_wiki/categories/"
+    href="/kai_wiki/about/"
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-    aria-label="分類"
-    title="Categories">
+    aria-label="關於我"
+    title="關於我">
     
     
       <p class="text-bg font-bg">
-        分類
+        關於我
       </p>
     
   </a>
@@ -605,16 +624,12 @@
               
   <li class="mt-1">
   <a
-    href="/kai_wiki/about/"
+    href=""
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400"
-    aria-label="關於我"
-    title="關於我">
     
+    title="">
     
-      <p class="text-bg font-bg">
-        關於我
-      </p>
     
   </a>
 </li>
@@ -827,18 +842,6 @@
         
       
         
-          
-            
-              <a class="relative mt-[0.5rem] me-2" href="/kai_wiki/categories/%E8%BB%9F%E9%AB%94/%E9%9F%B3%E6%A8%82%E7%9B%B8%E9%97%9C/">
-                <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    軟體/音樂相關
-  </span>
-</span>
-
-              </a>
-            
           
         
       
@@ -1251,7 +1254,7 @@
     
 </h2>
 <p>在這邊我非常推薦你去看看 <code>好和弦(NiceChords+)</code>的影片</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-md" data-lang="md"><span class="line"><span class="cl">https://wiwi.video/search?q=finale
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-md" data-lang="md"><span class="line"><span class="cl">https://wiwi.video/w/atxUShe9B4UvELTwGYKStu
 </span></span></code></pre></div><p>裡面的建議相當好，我自己原本是用 Kontakt 音源
 但是或許就跟影片中說得一樣，隨時這間公司不開發了&hellip;</p>
 <blockquote>
